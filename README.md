@@ -67,5 +67,10 @@ The project focuses on:
 - Label encoding
 - Feature scaling
 - Outlier handling
-- Models Used
+  **Models Used**
 Random Forest Classifier
+
+**Author**
+Meraj Ali
+Data Science & Analytics
+
